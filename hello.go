@@ -1,4 +1,4 @@
-package broken_tools
+package tool
 
 import "fmt"
 
